@@ -1,8 +1,8 @@
-#Hi, I'm Dhruv Raghav
+Hi, I'm Dhruv Raghav
 
 🎓 Master’s in Applied Data Science – Indiana University  
 💼 Data Scientist | Machine Learning Engineer | Generative AI Enthusiast  
-📍 Based in Indianapolis, IN • 🌐 [Portfolio Website](https://your-portfolio-link.com)
+📍 Based in Indianapolis, IN • 🌐 [Portfolio Website](https://dhruvraghav287.wixsite.com/dhruvraghav)
 
 ---
 
@@ -45,7 +45,7 @@ My core focus areas include large language models (LLMs), computer vision, and f
 - 📧 Email: [dhruvraghav782@gmail.com](mailto:dhruvraghav782@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/dhruvraghav)  
 - 💻 [GitHub](https://github.com/DhruvRaghav)  
-- 🌐 [Portfolio Website](https://your-portfolio-link.com)
+- 🌐 [Portfolio Website](https://dhruvraghav287.wixsite.com/dhruvraghav)
 
 ---
 
