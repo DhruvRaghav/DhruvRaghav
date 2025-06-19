@@ -14,6 +14,11 @@ I thrive at the intersection of data and decision-making, passionate about build
 My core focus areas include large language models (LLMs), computer vision, and full-cycle machine learning systems. I’ve led projects ranging from smart city segmentation and real-time emotion detection to generative AI tools using LLaMA, RAG, and Hugging Face Transformers.
 
 ---
+## 📚 Certifications
+
+- Data Science with GenAI – Purdue & IBM  
+- Advanced Python Programming – Udemy  
+- Statistics & Machine Learning A to Z – Udemy
 
 ## 🧠 Core Skills
 
@@ -39,6 +44,30 @@ My core focus areas include large language models (LLMs), computer vision, and f
 > 🔗 Explore more in my [Repositories](https://github.com/DhruvRaghav?tab=repositories)
 
 ---
+
+## 🎓 Academic Projects
+
+- **Medical Report Summarization**: T5/BART + FHIR/HL7 EMR integration  
+- **Image Captioning System**: CNN + Transformer architecture (MS-COCO dataset)  
+- **Efficient Machine Translation**: MarianMT with knowledge distillation (45% memory reduction)  
+- **Text-to-Image/Video Generation**: Stable Diffusion 2 + LAION datasets  
+- **Object Detection Web App**: Streamlit, OpenCV, U-Net with real-time browser inference  
+
+## 📝 Publications
+
+- **Probabilistic analysis of a system consisting of two subsystems**  
+  *The Pure and Applied Mathematics*, Vol. 27, No. 3, 2020
+
+- **Reliability analysis of a complex repairable system with switch and catastrophic failure**  
+  *Journal of Mathematical and Computational Science*, 2021
+
+- **Reliability prediction of distributed systems using joint probability distribution via copula**  
+  *Reliability: Theory & Applications*, Vol. 16, No. 1, 2021
+
+- **Performance assessment of a repairable system with k-out-of-n:G scheme**  
+  *Journal of Industrial Engineering International*, Accepted Jan 2023
+
+
 
 ## 📫 Let's Connect
 
