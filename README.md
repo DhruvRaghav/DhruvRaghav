@@ -1,12 +1,11 @@
-Hi, I'm Dhruv Raghav
-
-🎓 Master’s in Applied Data Science – Indiana University  
+## Dhruv Raghav
+🎓Master’s in Applied Data Science – Indiana University  
 💼 Data Scientist | Machine Learning Engineer | Generative AI Enthusiast  
 📍 Based in Indianapolis, IN • 🌐 [Portfolio Website](https://dhruvraghav287.wixsite.com/dhruvraghav)
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I’m a data scientist with over 6 years of experience across geospatial intelligence, healthcare analytics, and applied machine learning.  
 I thrive at the intersection of data and decision-making, passionate about building scalable AI solutions that solve real-world problems.
@@ -14,13 +13,13 @@ I thrive at the intersection of data and decision-making, passionate about build
 My core focus areas include large language models (LLMs), computer vision, and full-cycle machine learning systems. I’ve led projects ranging from smart city segmentation and real-time emotion detection to generative AI tools using LLaMA, RAG, and Hugging Face Transformers.
 
 ---
-## 📚 Certifications
+## Certifications
 
 - Data Science with GenAI – Purdue & IBM  
 - Advanced Python Programming – Udemy  
 - Statistics & Machine Learning A to Z – Udemy
 
-## 🧠 Core Skills
+## Core Skills
 
 - **Machine Learning:** Scikit-learn, XGBoost, PyTorch, TensorFlow  
 - **Natural Language Processing:** Transformers, BERT, LLaMA, RAG, Hugging Face  
@@ -31,7 +30,7 @@ My core focus areas include large language models (LLMs), computer vision, and f
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 | 📌 Project | 📝 Description | 🧰 Tech Stack |
 |-----------|----------------|---------------|
@@ -45,7 +44,7 @@ My core focus areas include large language models (LLMs), computer vision, and f
 
 ---
 
-## 🎓 Academic Projects
+## Academic Projects
 
 - **Medical Report Summarization**: T5/BART + FHIR/HL7 EMR integration  
 - **Image Captioning System**: CNN + Transformer architecture (MS-COCO dataset)  
@@ -53,7 +52,7 @@ My core focus areas include large language models (LLMs), computer vision, and f
 - **Text-to-Image/Video Generation**: Stable Diffusion 2 + LAION datasets  
 - **Object Detection Web App**: Streamlit, OpenCV, U-Net with real-time browser inference  
 
-## 📝 Publications
+## Publications
 
 - **Probabilistic analysis of a system consisting of two subsystems**  
   *The Pure and Applied Mathematics*, Vol. 27, No. 3, 2020
@@ -69,7 +68,7 @@ My core focus areas include large language models (LLMs), computer vision, and f
 
 
 
-## 📫 Let's Connect
+## Let's Connect
 
 - 📧 Email: [dhruvraghav782@gmail.com](mailto:dhruvraghav782@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/dhruvraghav)  
