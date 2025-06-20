@@ -5,13 +5,6 @@
 
 ---
 
-## About Me
-
-I’m a data scientist with over 6 years of experience across geospatial intelligence, healthcare analytics, and applied machine learning.  
-I thrive at the intersection of data and decision-making, passionate about building scalable AI solutions that solve real-world problems.
-
-My core focus areas include large language models (LLMs), computer vision, and full-cycle machine learning systems. I’ve led projects ranging from smart city segmentation and real-time emotion detection to generative AI tools using LLaMA, RAG, and Hugging Face Transformers.
-
 ---
 ## Certifications
 
