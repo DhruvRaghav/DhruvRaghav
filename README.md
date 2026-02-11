@@ -1,23 +1,36 @@
 # 🚀 Dhruv Raghav
 
-### Senior AI / Machine Learning Engineer
+### Senior AI / Machine Learning Engineer | Generative AI | LLM Systems | Financial Risk AI | AWS
 
-Architecting Scalable ML, Generative AI & Financial Intelligence Systems
-
+📍 Indianapolis, IN | Open to U.S. Full-Time Roles
 🎓 MS in Applied Data Science – Indiana University
-📍 Indianapolis, IN
 📧 [dhruvraghav782@gmail.com](mailto:dhruvraghav782@gmail.com)
 🔗 LinkedIn | Portfolio Website
 
 ---
 
-## 👨‍💻 Executive Profile
+## 💼 Recruiter Snapshot
 
-Senior AI/ML Engineer with 6+ years of experience designing and deploying enterprise-scale Machine Learning and Generative AI systems across financial risk, fraud detection, automation, and AI research domains.
+Senior AI/ML Engineer with 6+ years of experience building and deploying scalable Machine Learning and Generative AI systems in financial risk, fraud detection, automation, and enterprise analytics.
 
-Proven expertise in building production-grade ML platforms — from data engineering and feature stores to LLM-powered applications, vector search infrastructure, MLOps/LLMOps pipelines, and scalable cloud-native inference architectures.
+✔ Production ML & LLM systems
+✔ RAG architecture & vector databases
+✔ Credit risk & fraud modeling
+✔ MLOps / LLMOps & cloud deployment (AWS)
+✔ Real-time inference & scalable APIs
+✔ Measurable business impact (accuracy, cost, efficiency gains)
 
-Recognized for technical leadership, system architecture design, cross-functional collaboration, and delivering measurable business impact through intelligent automation and advanced analytics.
+---
+
+# 📊 GitHub Performance
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhruvRaghav&show_icons=true&theme=default&rank_icon=github)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=DhruvRaghav&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvRaghav&layout=compact&theme=default)
+
 
 ---
 
@@ -52,7 +65,7 @@ Recognized for technical leadership, system architecture design, cross-functiona
 ## ⚙️ MLOps / LLMOps & Production Deployment
 
 * MLflow Model Lifecycle Management
-* CI/CD with GitHub Actions & Jenkins
+* CI/CD with GitHub Actions
 * Docker & Kubernetes Orchestration
 * Drift Detection & Monitoring Frameworks
 * A/B Testing & Canary Deployments
@@ -87,7 +100,7 @@ Recognized for technical leadership, system architecture design, cross-functiona
 * Designed RAG-based plagiarism detection framework using LLaMA + FAISS
 * Engineered semantic similarity indexing and ranking pipelines
 * Evaluated and optimized transformer-based code models (CodeBERT, CodeT5)
-* Improved similarity precision by 30% using embedding optimization
+* Improved similarity precision by 30%
 
 ---
 
@@ -109,22 +122,13 @@ Recognized for technical leadership, system architecture design, cross-functiona
 
 ---
 
-# 📊 Measurable Business Impact
+# 📈 Measurable Business Impact
 
 * 35% increase in credit default prediction accuracy
 * 32% improvement in fraud precision
 * 40% reduction in GPU utilization through optimization
 * 57% faster ML deployment cycles
 * 40% reduction in manual reporting workload via AI automation
-
----
-
-# 📚 Publications
-
-* Probabilistic analysis of a system consisting of two subsystems
-* Reliability analysis of a complex repairable system with switch and catastrophic failure
-* Reliability prediction of distributed systems using joint probability distribution via copula
-* Performance assessment of a repairable system with k-out-of-n:G scheme
 
 ---
 
@@ -139,8 +143,12 @@ Recognized for technical leadership, system architecture design, cross-functiona
 
 # 🤝 Let’s Connect
 
-Open to Senior AI/ML Engineering, Generative AI Architecture, and Enterprise ML Platform roles.
+Open to Senior AI/ML Engineering, Generative AI Architecture, and Enterprise ML Platform roles across the U.S.
 
 📧 [dhruvraghav782@gmail.com](mailto:dhruvraghav782@gmail.com)
 💼 LinkedIn
 🌐 Portfolio Website
+
+---
+
+⚠️ Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub username to activate the stats cards.
