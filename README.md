@@ -1,6 +1,8 @@
 # 🚀 Dhruv Raghav
 
-### AI / ML Engineer | Generative AI Architect | Financial AI Systems
+### Senior AI / Machine Learning Engineer
+
+Architecting Scalable ML, Generative AI & Financial Intelligence Systems
 
 🎓 MS in Applied Data Science – Indiana University
 📍 Indianapolis, IN
@@ -9,129 +11,120 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Executive Profile
 
-AI/ML Engineer with 6+ years of experience building production-grade Machine Learning, Generative AI, and Financial Intelligence systems across risk modeling, fraud detection, automation, and scalable cloud deployments.
+Senior AI/ML Engineer with 6+ years of experience designing and deploying enterprise-scale Machine Learning and Generative AI systems across financial risk, fraud detection, automation, and AI research domains.
 
-I specialize in:
+Proven expertise in building production-grade ML platforms — from data engineering and feature stores to LLM-powered applications, vector search infrastructure, MLOps/LLMOps pipelines, and scalable cloud-native inference architectures.
 
-* Credit Risk & Fraud Detection Systems
-* Retrieval-Augmented Generation (RAG) Architectures
-* Multilingual LLM Fine-tuning (LoRA, Quantization)
-* Vector Search & Semantic Infrastructure
-* MLOps / LLMOps Pipelines
-* Cloud-Native AI Systems (AWS, SageMaker, Bedrock)
+Recognized for technical leadership, system architecture design, cross-functional collaboration, and delivering measurable business impact through intelligent automation and advanced analytics.
 
 ---
 
-# 🧠 Core Expertise
+# 🧠 Technical Leadership & Architecture
 
-## 🔬 Machine Learning
+## 🔬 Advanced Machine Learning Systems
 
-* XGBoost, LightGBM, CatBoost
-* Random Forest, Logistic Regression
-* Isolation Forest, One-Class SVM
-* Time Series Forecasting
+* Credit Risk & Fraud Intelligence Platforms
+* Time Series Forecasting & Behavioral Modeling
+* Anomaly Detection (Isolation Forest, One-Class SVM, Autoencoders)
 * Causal Inference & Probabilistic Modeling
-* SHAP Explainability
+* SHAP Explainability & Model Governance
+* Supervised & Unsupervised Learning Frameworks
 
-## 🤖 Generative AI & NLP
+## 🤖 Generative AI & LLM Engineering
 
-* GPT-4.x, LLaMA-3.x, LLaMA-2
-* RAG Systems
-* LangChain Pipelines
-* Hugging Face Transformers
-* Prompt Engineering & Routing
-* Cross-lingual NLP
+* Retrieval-Augmented Generation (RAG) Systems
+* GPT / LLaMA / Transformer-based Architectures
+* LangChain & Semantic Orchestration Pipelines
+* Prompt Routing & Optimization
+* LoRA Fine-Tuning & Parameter-Efficient Training
+* Quantization, Pruning & Model Compression
+* Cross-lingual & Multilingual NLP Systems
 
-## 🔍 Vector Systems
+## 🔍 Vector & Semantic Infrastructure
 
-* FAISS
-* Pinecone
-* Semantic Ranking
-* Embedding Infrastructure
+* FAISS & Dense Vector Indexing
+* Pinecone & Semantic Search Pipelines
+* Embedding Optimization & Ranking Systems
+* Knowledge Retrieval Engines
 
-## ⚙️ MLOps & Deployment
+## ⚙️ MLOps / LLMOps & Production Deployment
 
-* MLflow
-* Docker & Kubernetes
-* AWS SageMaker
-* GitHub Actions (CI/CD)
-* FastAPI / Flask
-* Model Monitoring & Drift Detection
+* MLflow Model Lifecycle Management
+* CI/CD with GitHub Actions & Jenkins
+* Docker & Kubernetes Orchestration
+* Drift Detection & Monitoring Frameworks
+* A/B Testing & Canary Deployments
+* Dataset & Model Versioning
+* API-based Model Serving (FastAPI / Flask)
 
-## ☁️ Cloud & Infrastructure
+## ☁️ Cloud & Scalable AI Infrastructure
 
-* AWS EC2, Lambda, Bedrock
+* AWS (EC2, Lambda, SageMaker, Bedrock, S3)
 * Azure AI Services
-* Snowflake
-* Delta Lake
-* Kafka Streaming
+* Snowflake & Delta Lake Architectures
+* Apache Airflow & Kafka Streaming
+* Spark MLlib & Distributed Training Pipelines
 
 ---
 
-# 🌟 Featured Projects
+# 🌟 Enterprise-Scale AI Platforms
 
-## 🛰️ Satellite Image Segmentation System
+## 💳 Credit Risk & Fraud Intelligence Engine
 
-* Built U-Net based geospatial segmentation pipelines
-* Generated GIS-ready GeoTIFF/GeoJSON outputs
-* Implemented HDF5 caching for optimized training
-* Deployed inference using Flask APIs
+* Architected bureau-integrated ML pipelines for default prediction and risk scoring
+* Reduced fraud false positives while improving precision and compliance
+* Integrated explainability frameworks for regulatory-ready AI systems
+* Deployed scalable real-time scoring APIs for enterprise decision engines
 
-**Tech:** TensorFlow, U-Net, Flask, GDAL
-
----
-
-## 🔍 RAG-Based Code Plagiarism Detection
-
-* Developed retrieval-augmented plagiarism detection system
-* Integrated LLaMA-2 with FAISS semantic indexing
-* Evaluated CodeBERT, GraphCodeBERT, CodeT5 models
-* Improved similarity precision by 30%
-
-**Tech:** LLaMA-2, FAISS, Hugging Face, LangChain
+**Impact:** 35% improvement in default prediction accuracy | 25% reduction in false positives
 
 ---
 
-## 💳 Credit Risk Intelligence Platform
+## 🔍 Retrieval-Augmented Code Intelligence System
 
-* Engineered bureau-based credit risk models
-* Built fraud anomaly detection systems
-* Implemented SHAP explainability
-* Designed real-time risk scoring pipelines
-
-**Tech:** XGBoost, Spark MLlib, Kafka, MLflow, Power BI
+* Designed RAG-based plagiarism detection framework using LLaMA + FAISS
+* Engineered semantic similarity indexing and ranking pipelines
+* Evaluated and optimized transformer-based code models (CodeBERT, CodeT5)
+* Improved similarity precision by 30% using embedding optimization
 
 ---
 
-## 🌍 Multilingual LLaMA Adaptation
+## 🌍 Multilingual LLM Optimization Framework
 
-* Fine-tuned LLaMA-2 across 10+ languages
-* Applied LoRA, quantization, and pruning
-* Reduced model size by 50%
-* Built real-time inference pipelines
-
-**Tech:** PyTorch, Transformers, LoRA, Distributed Training
+* Led cross-lingual LLaMA adaptation across 10+ languages
+* Implemented LoRA-based parameter-efficient fine-tuning
+* Applied quantization and pruning for 50% model size reduction
+* Built scalable real-time inference APIs for low-latency deployment
 
 ---
 
-# 📊 Impact Highlights
+## 🛰️ Geospatial Computer Vision Platform
 
-* 35% improvement in credit default prediction accuracy
-* 25% reduction in fraud false positives
-* 40% GPU utilization reduction via parameter-efficient fine-tuning
-* 57% reduction in ML deployment cycle time
-* 40% reduction in manual reporting workload
+* Developed U-Net segmentation pipelines for satellite imagery
+* Generated GIS-ready GeoTIFF & GeoJSON outputs
+* Optimized training using caching & geospatial preprocessing
+* Delivered REST-based inference deployment for production use
+
+---
+
+# 📊 Measurable Business Impact
+
+* 35% increase in credit default prediction accuracy
+* 32% improvement in fraud precision
+* 40% reduction in GPU utilization through optimization
+* 57% faster ML deployment cycles
+* 40% reduction in manual reporting workload via AI automation
 
 ---
 
 # 📚 Publications
 
 * Probabilistic analysis of a system consisting of two subsystems
-* Reliability analysis of a complex repairable system
-* Reliability prediction of distributed systems via copula
-* Performance assessment of repairable systems (k-out-of-n:G scheme)
+* Reliability analysis of a complex repairable system with switch and catastrophic failure
+* Reliability prediction of distributed systems using joint probability distribution via copula
+* Performance assessment of a repairable system with k-out-of-n:G scheme
 
 ---
 
@@ -146,7 +139,8 @@ I specialize in:
 
 # 🤝 Let’s Connect
 
+Open to Senior AI/ML Engineering, Generative AI Architecture, and Enterprise ML Platform roles.
+
 📧 [dhruvraghav782@gmail.com](mailto:dhruvraghav782@gmail.com)
 💼 LinkedIn
 🌐 Portfolio Website
-💻 Open to AI/ML, GenAI, and LLM Engineering roles
