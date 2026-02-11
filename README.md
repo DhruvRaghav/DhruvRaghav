@@ -1,74 +1,152 @@
-## Dhruv Raghav
-🎓Master’s in Applied Data Science – Indiana University  
-💼 Data Scientist | Machine Learning Engineer | Generative AI Enthusiast  
-📍 Based in Indianapolis, IN • 🌐 [Portfolio Website](https://www.dhruvraghav.com)
+# 🚀 Dhruv Raghav
+
+### AI / ML Engineer | Generative AI Architect | Financial AI Systems
+
+🎓 MS in Applied Data Science – Indiana University
+📍 Indianapolis, IN
+📧 [dhruvraghav782@gmail.com](mailto:dhruvraghav782@gmail.com)
+🔗 LinkedIn | Portfolio Website
 
 ---
 
----
-## Certifications
+## 👨‍💻 About Me
 
-- Data Science with GenAI – Purdue & IBM  
-- Advanced Python Programming – Udemy  
-- Statistics & Machine Learning A to Z – Udemy
+AI/ML Engineer with 6+ years of experience building production-grade Machine Learning, Generative AI, and Financial Intelligence systems across risk modeling, fraud detection, automation, and scalable cloud deployments.
 
-## Core Skills
+I specialize in:
 
-- **Machine Learning:** Scikit-learn, XGBoost, PyTorch, TensorFlow  
-- **Natural Language Processing:** Transformers, BERT, LLaMA, RAG, Hugging Face  
-- **Computer Vision:** OpenCV, EfficientNet, YOLOv5, U-Net  
-- **Data Engineering & Visualization:** SQL, ETL Pipelines, Tableau, Power BI  
-- **APIs & Deployment:** FastAPI, Flask, Docker, REST APIs  
-- **Languages:** Python, R, SQL, C
+* Credit Risk & Fraud Detection Systems
+* Retrieval-Augmented Generation (RAG) Architectures
+* Multilingual LLM Fine-tuning (LoRA, Quantization)
+* Vector Search & Semantic Infrastructure
+* MLOps / LLMOps Pipelines
+* Cloud-Native AI Systems (AWS, SageMaker, Bedrock)
 
 ---
 
-## Featured Projects
+# 🧠 Core Expertise
 
-| 📌 Project | 📝 Description | 🧰 Tech Stack |
-|-----------|----------------|---------------|
-| **📸 Smart City Vision System** | Satellite image segmentation & object detection for urban infrastructure | PyTorch, YOLOv5, U-Net, OpenCV |
-| **🧠 Multilingual Chatbot** | Fine-tuned LLaMA-2 for culturally adaptive NLP across languages | LoRA, Transformers, Hugging Face |
-| **🔍 Plagiarism Detector** | RAG-based generative AI system with semantic search capabilities | LLaMA-2, FAISS, FastAPI |
-| **🧾 Airbnb Price Predictor** | Predictive model for optimal Airbnb pricing strategies | R, Random Forest, ggplot2 |
-| **🧑‍⚕️ Emotion Recognition System** | Real-time sentiment analysis from text, voice, and images | CNNs, DeepSpeech, Transformers |
+## 🔬 Machine Learning
 
-> 🔗 Explore more in my [Repositories](https://github.com/DhruvRaghav?tab=repositories)
+* XGBoost, LightGBM, CatBoost
+* Random Forest, Logistic Regression
+* Isolation Forest, One-Class SVM
+* Time Series Forecasting
+* Causal Inference & Probabilistic Modeling
+* SHAP Explainability
+
+## 🤖 Generative AI & NLP
+
+* GPT-4.x, LLaMA-3.x, LLaMA-2
+* RAG Systems
+* LangChain Pipelines
+* Hugging Face Transformers
+* Prompt Engineering & Routing
+* Cross-lingual NLP
+
+## 🔍 Vector Systems
+
+* FAISS
+* Pinecone
+* Semantic Ranking
+* Embedding Infrastructure
+
+## ⚙️ MLOps & Deployment
+
+* MLflow
+* Docker & Kubernetes
+* AWS SageMaker
+* GitHub Actions (CI/CD)
+* FastAPI / Flask
+* Model Monitoring & Drift Detection
+
+## ☁️ Cloud & Infrastructure
+
+* AWS EC2, Lambda, Bedrock
+* Azure AI Services
+* Snowflake
+* Delta Lake
+* Kafka Streaming
 
 ---
 
-## Academic Projects
+# 🌟 Featured Projects
 
-- **Medical Report Summarization**: T5/BART + FHIR/HL7 EMR integration  
-- **Image Captioning System**: CNN + Transformer architecture (MS-COCO dataset)  
-- **Efficient Machine Translation**: MarianMT with knowledge distillation (45% memory reduction)  
-- **Text-to-Image/Video Generation**: Stable Diffusion 2 + LAION datasets  
-- **Object Detection Web App**: Streamlit, OpenCV, U-Net with real-time browser inference  
+## 🛰️ Satellite Image Segmentation System
 
-## Publications
+* Built U-Net based geospatial segmentation pipelines
+* Generated GIS-ready GeoTIFF/GeoJSON outputs
+* Implemented HDF5 caching for optimized training
+* Deployed inference using Flask APIs
 
-- **Probabilistic analysis of a system consisting of two subsystems**  
-  *The Pure and Applied Mathematics*, Vol. 27, No. 3, 2020
-
-- **Reliability analysis of a complex repairable system with switch and catastrophic failure**  
-  *Journal of Mathematical and Computational Science*, 2021
-
-- **Reliability prediction of distributed systems using joint probability distribution via copula**  
-  *Reliability: Theory & Applications*, Vol. 16, No. 1, 2021
-
-- **Performance assessment of a repairable system with k-out-of-n:G scheme**  
-  *Journal of Industrial Engineering International*, Accepted Jan 2023
-
-
-
-## Let's Connect
-
-- 📧 Email: [dhruvraghav782@gmail.com](mailto:dhruvraghav782@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/dhruvraghav)  
-- 💻 [GitHub](https://github.com/DhruvRaghav)  
-- 🌐 [Portfolio Website](https://www.dhruvraghav.com)
+**Tech:** TensorFlow, U-Net, Flask, GDAL
 
 ---
 
-*“Transforming data into solutions that matter.”*
+## 🔍 RAG-Based Code Plagiarism Detection
 
+* Developed retrieval-augmented plagiarism detection system
+* Integrated LLaMA-2 with FAISS semantic indexing
+* Evaluated CodeBERT, GraphCodeBERT, CodeT5 models
+* Improved similarity precision by 30%
+
+**Tech:** LLaMA-2, FAISS, Hugging Face, LangChain
+
+---
+
+## 💳 Credit Risk Intelligence Platform
+
+* Engineered bureau-based credit risk models
+* Built fraud anomaly detection systems
+* Implemented SHAP explainability
+* Designed real-time risk scoring pipelines
+
+**Tech:** XGBoost, Spark MLlib, Kafka, MLflow, Power BI
+
+---
+
+## 🌍 Multilingual LLaMA Adaptation
+
+* Fine-tuned LLaMA-2 across 10+ languages
+* Applied LoRA, quantization, and pruning
+* Reduced model size by 50%
+* Built real-time inference pipelines
+
+**Tech:** PyTorch, Transformers, LoRA, Distributed Training
+
+---
+
+# 📊 Impact Highlights
+
+* 35% improvement in credit default prediction accuracy
+* 25% reduction in fraud false positives
+* 40% GPU utilization reduction via parameter-efficient fine-tuning
+* 57% reduction in ML deployment cycle time
+* 40% reduction in manual reporting workload
+
+---
+
+# 📚 Publications
+
+* Probabilistic analysis of a system consisting of two subsystems
+* Reliability analysis of a complex repairable system
+* Reliability prediction of distributed systems via copula
+* Performance assessment of repairable systems (k-out-of-n:G scheme)
+
+---
+
+# 🏆 Certifications
+
+* AWS Certified AI Practitioner
+* Professional Certificate in Data Science & Generative AI – Purdue University
+* Machine Learning Certification – Purdue University
+* Python Programming Certification – IBM
+
+---
+
+# 🤝 Let’s Connect
+
+📧 [dhruvraghav782@gmail.com](mailto:dhruvraghav782@gmail.com)
+💼 LinkedIn
+🌐 Portfolio Website
+💻 Open to AI/ML, GenAI, and LLM Engineering roles
