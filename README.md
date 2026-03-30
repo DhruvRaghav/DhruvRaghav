@@ -5,7 +5,6 @@
 📍 Indianapolis, IN | Open to U.S. Full-Time Roles
 🎓 MS in Applied Data Science – Indiana University
 📧 [dhruvraghav782@gmail.com](mailto:dhruvraghav782@gmail.com)
-🔗 LinkedIn | Portfolio Website
 
 ---
 
