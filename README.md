@@ -1,153 +1,98 @@
-# 🚀 Dhruv Raghav
+# 👋 Hi, I'm Dhruv Raghav
 
-### Senior AI / Machine Learning Engineer | Generative AI | LLM Systems | Financial Risk AI | AWS
+**Data Scientist | ML & LLM Engineer | RAG Systems | AWS | Credit Risk & Fraud Analytics**
 
-📍 Indianapolis, IN | Open to U.S. Full-Time Roles
+📍 Indianapolis, IN
 🎓 MS in Applied Data Science – Indiana University
 📧 [dhruvraghav782@gmail.com](mailto:dhruvraghav782@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/dhruvraghav/)
 
 ---
 
-## 💼 Recruiter Snapshot
+## 🚀 About Me
 
-Senior AI/ML Engineer with 6+ years of experience building and deploying scalable Machine Learning and Generative AI systems in financial risk, fraud detection, automation, and enterprise analytics.
+I’m a Data Scientist with ~5 years of experience building and deploying scalable machine learning systems across banking, telecom, and retail domains.
 
-✔ Production ML & LLM systems
-✔ RAG architecture & vector databases
-✔ Credit risk & fraud modeling
-✔ MLOps / LLMOps & cloud deployment (AWS)
-✔ Real-time inference & scalable APIs
-✔ Measurable business impact (accuracy, cost, efficiency gains)
+At PNC, I work on credit risk and fraud analytics, where I:
 
----
+* Improved loan decision accuracy by **27%**
+* Reduced fraud response time by **35%**
+* Built real-time ML pipelines and LLM-powered systems
 
-# 📊 GitHub Performance
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhruvRaghav&show_icons=true&theme=default&rank_icon=github)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=DhruvRaghav&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvRaghav&layout=compact&theme=default)
-
+I focus on building **production-grade ML and AI systems** that solve real business problems.
 
 ---
 
-# 🧠 Technical Leadership & Architecture
+## 🧠 Core Expertise
 
-## 🔬 Advanced Machine Learning Systems
+**Machine Learning**
 
-* Credit Risk & Fraud Intelligence Platforms
-* Time Series Forecasting & Behavioral Modeling
-* Anomaly Detection (Isolation Forest, One-Class SVM, Autoencoders)
-* Causal Inference & Probabilistic Modeling
-* SHAP Explainability & Model Governance
-* Supervised & Unsupervised Learning Frameworks
+* XGBoost, LightGBM, Scikit-learn
+* Feature engineering, model optimization
 
-## 🤖 Generative AI & LLM Engineering
+**Generative AI & LLMs**
 
-* Retrieval-Augmented Generation (RAG) Systems
-* GPT / LLaMA / Transformer-based Architectures
-* LangChain & Semantic Orchestration Pipelines
-* Prompt Routing & Optimization
-* LoRA Fine-Tuning & Parameter-Efficient Training
-* Quantization, Pruning & Model Compression
-* Cross-lingual & Multilingual NLP Systems
+* RAG (Retrieval-Augmented Generation)
+* FAISS, vector search
+* NLP (NLTK, spaCy)
 
-## 🔍 Vector & Semantic Infrastructure
+**Data Engineering**
 
-* FAISS & Dense Vector Indexing
-* Pinecone & Semantic Search Pipelines
-* Embedding Optimization & Ranking Systems
-* Knowledge Retrieval Engines
+* ETL pipelines, Apache Spark
+* Real-time data processing
 
-## ⚙️ MLOps / LLMOps & Production Deployment
+**MLOps & Cloud**
 
-* MLflow Model Lifecycle Management
-* CI/CD with GitHub Actions
-* Docker & Kubernetes Orchestration
-* Drift Detection & Monitoring Frameworks
-* A/B Testing & Canary Deployments
-* Dataset & Model Versioning
-* API-based Model Serving (FastAPI / Flask)
+* AWS (Lambda, S3, Kinesis, SageMaker)
+* Docker, model deployment
 
-## ☁️ Cloud & Scalable AI Infrastructure
+**Explainable AI**
 
-* AWS (EC2, Lambda, SageMaker, Bedrock, S3)
-* Azure AI Services
-* Snowflake & Delta Lake Architectures
-* Apache Airflow & Kafka Streaming
-* Spark MLlib & Distributed Training Pipelines
+* SHAP, LIME (regulatory + interpretable ML)
 
 ---
 
-# 🌟 Enterprise-Scale AI Platforms
+## 🔥 Featured Projects
 
-## 💳 Credit Risk & Fraud Intelligence Engine
+### 📌 RAG-Based Financial Document Analyzer
 
-* Architected bureau-integrated ML pipelines for default prediction and risk scoring
-* Reduced fraud false positives while improving precision and compliance
-* Integrated explainability frameworks for regulatory-ready AI systems
-* Deployed scalable real-time scoring APIs for enterprise decision engines
-
-**Impact:** 35% improvement in default prediction accuracy | 25% reduction in false positives
+* Built an LLM-powered system to query financial documents using FAISS
+* Enabled conversational access to structured + unstructured data
+* Stack: Python, LangChain, FAISS, OpenAI API
 
 ---
 
-## 🔍 Retrieval-Augmented Code Intelligence System
+### 📌 Real-Time Fraud Detection Pipeline
 
-* Designed RAG-based plagiarism detection framework using LLaMA + FAISS
-* Engineered semantic similarity indexing and ranking pipelines
-* Evaluated and optimized transformer-based code models (CodeBERT, CodeT5)
-* Improved similarity precision by 30%
-
----
-
-## 🌍 Multilingual LLM Optimization Framework
-
-* Led cross-lingual LLaMA adaptation across 10+ languages
-* Implemented LoRA-based parameter-efficient fine-tuning
-* Applied quantization and pruning for 50% model size reduction
-* Built scalable real-time inference APIs for low-latency deployment
+* Designed streaming pipeline using AWS Lambda + Kinesis
+* Reduced fraud response time and improved detection latency
+* Stack: AWS, Python, Spark
 
 ---
 
-## 🛰️ Geospatial Computer Vision Platform
+### 📌 Credit Risk Prediction System
 
-* Developed U-Net segmentation pipelines for satellite imagery
-* Generated GIS-ready GeoTIFF & GeoJSON outputs
-* Optimized training using caching & geospatial preprocessing
-* Delivered REST-based inference deployment for production use
-
----
-
-# 📈 Measurable Business Impact
-
-* 35% increase in credit default prediction accuracy
-* 32% improvement in fraud precision
-* 40% reduction in GPU utilization through optimization
-* 57% faster ML deployment cycles
-* 40% reduction in manual reporting workload via AI automation
+* Developed ML models (XGBoost) for loan default prediction
+* Improved decision accuracy and risk segmentation
+* Stack: Scikit-learn, Pandas, Feature Engineering
 
 ---
 
-# 🏆 Certifications
+## 📊 GitHub Stats
 
-* AWS Certified AI Practitioner
-* Professional Certificate in Data Science & Generative AI – Purdue University
-* Machine Learning Certification – Purdue University
-* Python Programming Certification – IBM
+![Stats](https://github-readme-stats.vercel.app/api?username=DhruvRaghav\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvRaghav\&layout=compact)
 
 ---
 
-# 🤝 Let’s Connect
+## 🤝 Let’s Connect
 
-Open to Senior AI/ML Engineering, Generative AI Architecture, and Enterprise ML Platform roles across the U.S.
+I’m open to:
+
+* Data Science roles
+* ML / AI Engineering roles
+* Generative AI / LLM opportunities
 
 📧 [dhruvraghav782@gmail.com](mailto:dhruvraghav782@gmail.com)
-💼 LinkedIn
-🌐 Portfolio Website
-
----
-
-⚠️ Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub username to activate the stats cards.
+🔗 LinkedIn: https://www.linkedin.com/in/YOUR_USERNAME
