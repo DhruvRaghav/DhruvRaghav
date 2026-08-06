@@ -1,98 +1,98 @@
-# 👋 Hi, I'm Dhruv Raghav
+# Hi, I'm Dhruv Raghav 👋
 
-**Data Scientist | ML & LLM Engineer | RAG Systems | AWS | Credit Risk & Fraud Analytics**
+### Data Scientist | Machine Learning | Predictive Analytics | MLOps
 
-📍 Indianapolis, IN
-🎓 MS in Applied Data Science – Indiana University
-📧 [dhruvraghav782@gmail.com](mailto:dhruvraghav782@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/dhruvraghav/)
+I am a Data Scientist with 4+ years of experience building machine-learning and data solutions across pharmaceutical supply chain, telecom, and retail.
 
----
+I specialize in demand forecasting, inventory-risk modeling, anomaly detection, explainable AI, and production machine-learning pipelines. I hold a Master of Science in Data Science from Indiana University Indianapolis.
 
-## 🚀 About Me
+## Technical Skills
 
-I’m a Data Scientist with ~5 years of experience building and deploying scalable machine learning systems across banking, telecom, and retail domains.
+**Programming:** Python, SQL  
+**Machine Learning:** Scikit-learn, XGBoost, LightGBM, Random Forest  
+**Data Engineering:** Apache Spark, PySpark, Databricks, Delta Lake, ETL  
+**Cloud & MLOps:** AWS, GCP, Docker, MLflow, Git, CI/CD  
+**Generative AI:** RAG, LLMs, LangChain, FAISS, Transformer Embeddings  
+**Analytics:** Pandas, NumPy, Statistical Analysis, A/B Testing  
+**Visualization:** Power BI, Tableau  
+**Deployment:** Flask, REST APIs, Model Monitoring  
+**Explainability:** SHAP, LIME  
 
-At PNC, I work on credit risk and fraud analytics, where I:
+## Featured Projects
 
-* Improved loan decision accuracy by **27%**
-* Reduced fraud response time by **35%**
-* Built real-time ML pipelines and LLM-powered systems
+### 📦 Pharmaceutical Inventory Risk Forecasting
 
-I focus on building **production-grade ML and AI systems** that solve real business problems.
+Machine-learning system for predicting pharmaceutical stockout and overstock risks using historical orders, inventory levels, shipment activity, and product features.
 
----
+- Developed demand-forecasting and inventory-risk models
+- Built with Python, XGBoost, Scikit-learn, and MLflow
+- Included threshold optimization and drift monitoring
+- Used SHAP to explain individual predictions
+- Used synthetic data to demonstrate the architecture
 
-## 🧠 Core Expertise
+[View Project](https://github.com/DhruvRaghav/inventory-risk-forecasting)
 
-**Machine Learning**
+### 📚 PharmaSense: Regulatory Document RAG Assistant
 
-* XGBoost, LightGBM, Scikit-learn
-* Feature engineering, model optimization
+RAG-based document intelligence system for searching pharmaceutical regulations and standard operating procedures.
 
-**Generative AI & LLMs**
+- Generated transformer-based document embeddings
+- Used FAISS for semantic retrieval
+- Added contextual question answering
+- Implemented embedding caching and batch processing
+- Exposed retrieval through a Flask REST API
 
-* RAG (Retrieval-Augmented Generation)
-* FAISS, vector search
-* NLP (NLTK, spaCy)
+[View Project](https://github.com/DhruvRaghav/pharmasense-rag-assistant)
 
-**Data Engineering**
+### 🔍 MedTrace: Pharmaceutical Anomaly Detection
 
-* ETL pipelines, Apache Spark
-* Real-time data processing
+Shipment-monitoring framework for identifying unusual pharmaceutical distribution patterns using synthetic EDI-style transaction data.
 
-**MLOps & Cloud**
+- Processed more than 5,000 synthetic shipment transactions
+- Applied anomaly-detection techniques
+- Demonstrated NDC and lot-level traceability
+- Generated explainable risk alerts
+- Included data validation and monitoring reports
 
-* AWS (Lambda, S3, Kinesis, SageMaker)
-* Docker, model deployment
+[View Project](https://github.com/DhruvRaghav/medtrace-anomaly-detection)
 
-**Explainable AI**
+### 🛰️ Real-Time Computer Vision System
 
-* SHAP, LIME (regulatory + interpretable ML)
+YOLOv5-based object-detection and privacy-obfuscation system developed using more than 9,500 images.
 
----
+- Achieved 95% object-detection precision
+- Added automatic privacy obfuscation
+- Developed a REST API inference pipeline
+- Reduced inference latency through model optimization
 
-## 🔥 Featured Projects
+[View Project](https://github.com/DhruvRaghav/realtime-computer-vision)
 
-### 📌 RAG-Based Financial Document Analyzer
+## Current Focus
 
-* Built an LLM-powered system to query financial documents using FAISS
-* Enabled conversational access to structured + unstructured data
-* Stack: Python, LangChain, FAISS, OpenAI API
+- Production machine learning
+- Demand forecasting and predictive analytics
+- Cloud-based model deployment
+- MLOps and model monitoring
+- Retrieval-Augmented Generation
+- Explainable AI
+- Agricultural and supply-chain analytics
 
----
+## Education
 
-### 📌 Real-Time Fraud Detection Pipeline
+**Master of Science in Data Science**  
+Indiana University Indianapolis
 
-* Designed streaming pipeline using AWS Lambda + Kinesis
-* Reduced fraud response time and improved detection latency
-* Stack: AWS, Python, Spark
+**Bachelor of Technology in Computer Science**  
+I.T.S Engineering College, Greater Noida
 
----
+## Certifications
 
-### 📌 Credit Risk Prediction System
+- AWS Certified AI Practitioner
+- Professional Certificate in Data Science and Generative AI – Purdue University
+- Machine Learning Certification – Purdue University
+- Python Programming Certification – IBM
 
-* Developed ML models (XGBoost) for loan default prediction
-* Improved decision accuracy and risk segmentation
-* Stack: Scikit-learn, Pandas, Feature Engineering
+## Connect With Me
 
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=DhruvRaghav\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvRaghav\&layout=compact)
-
----
-
-## 🤝 Let’s Connect
-
-I’m open to:
-
-* Data Science roles
-* ML / AI Engineering roles
-* Generative AI / LLM opportunities
-
-📧 [dhruvraghav782@gmail.com](mailto:dhruvraghav782@gmail.com)
-🔗 LinkedIn: https://www.linkedin.com/in/YOUR_USERNAME
+- LinkedIn: [linkedin.com/in/dhruvraghav](https://linkedin.com/in/dhruvraghav)
+- Email: [dhruvraghav008@gmail.com](mailto:dhruvraghav008@gmail.com)
